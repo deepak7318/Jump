@@ -18,3 +18,4 @@ and now:
 `<character>` jump
 
 `escape` cancel jump
+JUMP
